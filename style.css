@@ -1,0 +1,39 @@
+body{
+  background-size : cover;
+}
+
+.heading{
+    font-size: 25px;
+    background-color: white ;
+    margin-top: 0px;
+    box-shadow: 10px 10px 100px red;
+}
+
+.note{
+    font-size: 15px;
+}
+
+
+.div_speed{
+float: left;
+}
+
+.div_volume{
+    float: right;
+    }
+ img{
+        width: 200px ;
+        border-radius: 100%;
+    }
+
+    .bttn{
+        font-size: 25px;
+    }
+
+
+    canvas{
+        border-width: 5px;
+        border-style: double;
+        border-color: rgb(255, 253, 253);
+        border-radius: 15px;
+    }
